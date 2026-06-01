@@ -1,11 +1,11 @@
 import { useEffect, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
-import LoadingScreen from './components/LoadingScreen.jsx'
-import LockScreen from './components/LockScreen.jsx'
-import EnvelopeScreen from './components/EnvelopeScreen.jsx'
-import MainCollage from './components/MainCollage.jsx'
-import RoseBurstTransition from './components/RoseBurstTransition.jsx'
-import FloatingPetals from './components/FloatingPetals.jsx'
+import LoadingScreen from './LoadingScreen.jsx'
+import LockScreen from './LockScreen.jsx'
+import EnvelopeScreen from './EnvelopeScreen.jsx'
+import MainCollage from './MainCollage.jsx'
+import RoseBurstTransition from './RoseBurstTransition.jsx'
+import FloatingPetals from './FloatingPetals.jsx'
 
 export default function App() {
   // stages: loading -> locked -> envelope -> board, with transitions a/b
