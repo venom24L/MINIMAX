@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Rose } from './assets/Roses.jsx'
+import { Rose } from './Roses.jsx'
 
 // Generates a wall of dense roses and animates them scaling from 0 to 50
 // to wipe across the entire viewport. Used for both Transition A and B.

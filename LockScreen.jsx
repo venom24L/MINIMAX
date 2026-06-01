@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
-import { Cloud, HeartCutout, WashiStrip, Rose, TapeStrip, SpeechBubble } from './assets/Roses.jsx'
+import { Cloud, HeartCutout, WashiStrip, Rose, TapeStrip, SpeechBubble } from './Roses.jsx'
 
 // Lock screen: keypad, padlock, clouds, and 4-dot indicator.
 // "Unlock code" is hardcoded to 1234 for the demo. Any 4-digit input triggers onUnlock.

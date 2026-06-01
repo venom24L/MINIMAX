@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { WashiStrip, Rose, TapeStrip } from './assets/Roses.jsx'
+import { WashiStrip, Rose, TapeStrip } from './Roses.jsx'
 
 // Envelope screen: red paper envelope with wax seal, gentle breathing animation.
 // Click/tap the envelope to call onOpen().

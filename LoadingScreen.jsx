@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Rose, WashiStrip } from './assets/Roses.jsx'
+import { Rose, WashiStrip } from './Roses.jsx'
 
 // Loading screen: soft pink background, rotating rose wreath, "LOADING" text.
 export default function LoadingScreen() {

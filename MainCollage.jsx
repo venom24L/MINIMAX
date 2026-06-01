@@ -13,7 +13,7 @@ import {
   TapeStrip,
   SpeechBubble,
   Star,
-} from './assets/Roses.jsx'
+} from './Roses.jsx'
 
 export default function MainCollage() {
   return (
